@@ -21,7 +21,7 @@ I’m an open source developer obsessed with building bulletproof tools that fee
 
 💡 **Skills & Technologies**
 - React, Node.js, TypeScript, Rust, Solana, Web3, NLP, Chatbots, AI, Docker, Kubernetes, AWS, GraphQL, REST APIs
-- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ---
 
