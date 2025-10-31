@@ -6,10 +6,9 @@ I’m an open source developer obsessed with building bulletproof tools that fee
 
 🔭 **What I'm working on**
 - I'm building **react-shiki**, a fast and flexible client-focused syntax highlighter for React.  
-  It provides a clean component API like react-syntax-highlighter, alongside a more flexible React hook, bringing the modern, powerful Shiki syntax highlighter to React in an elegant and intuitive package.
+  ![Demo GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-- I’m also a **Founding Engineer at assistant-ui**, where we’re raising the bar for developer experience (DX) and accessibility in AI chat.  
-  It’s a powerful SDK paired with a shadcn-style UI library, giving you everything you need to spin up an advanced, type-safe chat app with best-in-class design, accessibility, and performance.
+- I’m also a **Founding Engineer at assistant-ui**, improving developer experience (DX) in AI chat.  
 
 ---
 
@@ -26,9 +25,17 @@ I’m an open source developer obsessed with building bulletproof tools that fee
 ---
 
 🧰 **Tools & Services**
-- VS Code, Git, GitHub, Postman, Figma, Notion, Slack, Jira, Docker, AWS
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
 ⭐ **Fun fact**
 - I enjoy building projects that **combine AI, blockchain, and web development** to make tools that are both **powerful and user-friendly**.
+
+---
+
+📈 **GitHub Stats**
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoRadoji&show_icons=true&theme=radical)
