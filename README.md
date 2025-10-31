@@ -15,7 +15,7 @@ I’m an open source developer obsessed with building bulletproof tools that fee
 📫 **How to reach me**
 - **Email:** marco.smile08@outlook.com  
 - **LinkedIn:** [https://linkedin.com/in/marcoradoji](https://linkedin.com/in/marcoradoji)  
-- **Twitter:** [@marcoradoji](https://twitter.com/marcoradoji)
+- **Twitter:** [@marcoradoji](https://twitter.com/MRadoji43715)
 
 ---
 
