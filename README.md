@@ -67,13 +67,6 @@ _A toolkit for building AI-driven automations with Python and Node.js._
 
 ---
 
-### 🐍 Contribution Graph Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourname/yourname/output/github-contribution-grid-snake.svg" alt="Snake animation showing activity" />
-</p>
-
----
-
 ### 💬 Connect
 📫 [LinkedIn](https://linkedin.com/in/yourname) • [Twitter](https://twitter.com/yourhandle) • [Portfolio](https://yourportfolio.dev)
 
