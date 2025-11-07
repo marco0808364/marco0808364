@@ -5,7 +5,7 @@
 
 ---
 
-### 👋 Hey, I'm **[Your Name]**
+### 👋 Hey, I'm Marco.
 > Full-Stack Developer | Automation Engineer | Problem Solver  
 
 I'm passionate about designing **scalable systems**, **intuitive interfaces**, and exploring how **AI + Web3** can redefine user experiences.  
