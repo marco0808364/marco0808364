@@ -33,22 +33,6 @@ My work combines **backend precision** with **frontend creativity**, focusing on
 
 ---
 
-### 🎨 Featured Repositories
-
-🧠 [**react-smart-ui**](https://github.com/marco0808364/react-smart-ui)  
-_Reusable React components with adaptive animation logic and accessibility-first design._
-
-🪐 [**onchain-engine**](https://github.com/marco0808364/onchain-engine)  
-_Modular backend for interacting with blockchain data using Ethers.js and PostgreSQL._
-
-🤖 [**gpt-automation-kit**](https://github.com/marco0808364/gpt-automation-kit)  
-_A toolkit for building AI-driven automations with Python and Node.js._
-
-
-
-
----
-
 
 ### 💬 Connect
 📫 [LinkedIn](https://linkedin.com/in/marcoradoji) • [Twitter](https://twitter.com/@MRadoji43715)
