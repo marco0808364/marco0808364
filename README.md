@@ -48,6 +48,7 @@ _A toolkit for building AI-driven automations with Python and Node.js._
 
 ### 📊 GitHub Stats & Activity
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourname&theme=tokyo-night" />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical" height="170" />
@@ -67,9 +68,6 @@ _A toolkit for building AI-driven automations with Python and Node.js._
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourname&theme=radical" />
-</p>
 
 ### 💬 Connect
 📫 [LinkedIn](https://linkedin.com/in/yourname) • [Twitter](https://twitter.com/yourhandle) • [Portfolio](https://yourportfolio.dev)
