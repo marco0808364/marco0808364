@@ -67,6 +67,10 @@ _A toolkit for building AI-driven automations with Python and Node.js._
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourname&theme=radical" />
+</p>
+
 ### 💬 Connect
 📫 [LinkedIn](https://linkedin.com/in/yourname) • [Twitter](https://twitter.com/yourhandle) • [Portfolio](https://yourportfolio.dev)
 
