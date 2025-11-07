@@ -44,35 +44,15 @@ _Modular backend for interacting with blockchain data using Ethers.js and Postgr
 🤖 [**gpt-automation-kit**](https://github.com/marco0808364/gpt-automation-kit)  
 _A toolkit for building AI-driven automations with Python and Node.js._
 
----
-
-### 📊 GitHub Stats & Activity
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical" height="170" />
-</p>
-
----
-
-### 🪄 Achievements & Activity Graph
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourname&theme=onedark&no-frame=true&row=1&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourname&theme=github-dark" />
-</p>
 
 ---
 
 
 ### 💬 Connect
-📫 [LinkedIn](https://linkedin.com/in/yourname) • [Twitter](https://twitter.com/yourhandle) • [Portfolio](https://yourportfolio.dev)
+📫 [LinkedIn](https://linkedin.com/in/marcoradoji) • [Twitter](https://twitter.com/@MRadoji43715)
 
 ---
 
-> _"Write code that scales. Build systems that last."_  
-> — [Your Name]
+
