@@ -1,4 +1,4 @@
-<!-- Dynamic Typing SVG -->
+<!-- Typing Animation Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=26&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+autonomous+systems+with+code.;Engineering+scalable+web+infrastructure.;Exploring+Web3%2C+automation%2C+and+AI+intersections." alt="Typing Animation" />
 </p>
@@ -8,12 +8,13 @@
 ### 👋 Hey, I'm Marco.
 > Full-Stack Developer | Automation Engineer | Problem Solver  
 
-I'm passionate about designing **scalable systems**, **intuitive interfaces**, and exploring how **AI + Web3** can redefine user experiences.  
-My work blends **backend precision** with **frontend creativity**, focusing on automation, data flow, and secure web infrastructure.
+I design **scalable systems**, **intuitive interfaces**, and explore how **AI + Web3** can redefine user experiences.  
+My work combines **backend precision** with **frontend creativity**, focusing on automation, data flow, and secure web infrastructure.
 
 ---
 
 ### 🧠 Tech Stack
+
 | Domain | Tools & Frameworks |
 |--------|--------------------|
 | **Frontend** | React · Next.js · TypeScript · TailwindCSS |
@@ -34,13 +35,13 @@ My work blends **backend precision** with **frontend creativity**, focusing on a
 
 ### 🎨 Featured Repositories
 
-🧠 [**react-smart-ui**](https://github.com/yourname/react-smart-ui)  
+🧠 [**react-smart-ui**](https://github.com/marco0808364/react-smart-ui)  
 _Reusable React components with adaptive animation logic and accessibility-first design._
 
-🪐 [**onchain-engine**](https://github.com/yourname/onchain-engine)  
+🪐 [**onchain-engine**](https://github.com/marco0808364/onchain-engine)  
 _Modular backend for interacting with blockchain data using Ethers.js and PostgreSQL._
 
-🤖 [**gpt-automation-kit**](https://github.com/yourname/gpt-automation-kit)  
+🤖 [**gpt-automation-kit**](https://github.com/marco0808364/gpt-automation-kit)  
 _A toolkit for building AI-driven automations with Python and Node.js._
 
 ---
@@ -54,13 +55,21 @@ _A toolkit for building AI-driven automations with Python and Node.js._
 
 ---
 
-### 🪄 A Little Animation Touch
+### 🪄 Achievements & Activity Graph
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourname&theme=onedark&no-frame=true&row=1&margin-w=10" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourname&theme=github-dark" />
+</p>
+
+---
+
+### 🐍 Contribution Graph Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourname/yourname/output/github-contribution-grid-snake.svg" alt="Snake animation showing activity" />
 </p>
 
 ---
