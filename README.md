@@ -1,42 +1,74 @@
-👋 Hi, I'm Marco
-
-I’m an open source developer obsessed with building bulletproof tools that feel effortless to use.
-
----
-
-🔭 **What I'm working on**
-- I'm building **react-shiki**, a fast and flexible client-focused syntax highlighter for React.  
-  ![Demo GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
-- I’m also a **Founding Engineer at assistant-ui**, improving developer experience (DX) in AI chat.  
+<!-- Dynamic Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=26&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+autonomous+systems+with+code.;Engineering+scalable+web+infrastructure.;Exploring+Web3%2C+automation%2C+and+AI+intersections." alt="Typing Animation" />
+</p>
 
 ---
 
-📫 **How to reach me**
-- **Email:** marco.smile08@outlook.com  
-- **LinkedIn:** [https://linkedin.com/in/marcoradoji](https://linkedin.com/in/marcoradoji)  
-- **Twitter:** [@MRadoji43715](https://twitter.com/MRadoji43715)
+### 👋 Hey, I'm **[Your Name]**
+> Full-Stack Developer | Automation Engineer | Problem Solver  
+
+I'm passionate about designing **scalable systems**, **intuitive interfaces**, and exploring how **AI + Web3** can redefine user experiences.  
+My work blends **backend precision** with **frontend creativity**, focusing on automation, data flow, and secure web infrastructure.
 
 ---
 
-💡 **Skills & Technologies**
-- React, Node.js, TypeScript, Rust, Solana, Web3, NLP, Chatbots, AI, Docker, Kubernetes, AWS, GraphQL, REST APIs
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+### 🧠 Tech Stack
+| Domain | Tools & Frameworks |
+|--------|--------------------|
+| **Frontend** | React · Next.js · TypeScript · TailwindCSS |
+| **Backend** | Node.js · Express · PostgreSQL · REST / GraphQL APIs |
+| **Automation** | Python · GPT APIs · Cloud Workflows (AWS / GCP) |
+| **Web3 (Exploration)** | Ethers.js · Wagmi · Viem · Solana Web3.js |
+| **DevOps** | Docker · CI/CD · GitHub Actions |
 
 ---
 
-🧰 **Tools & Services**
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🚀 Recent Highlights
+- ⚙️ Built an **AI-powered workflow automation tool** integrating GPT-4 APIs and event-based cloud triggers.  
+- 🌐 Deployed **serverless backend architecture** for a DeFi analytics dashboard.  
+- 🧩 Created modular **React UI components** with smooth micro-interactions and animation states.  
+- 🔐 Experimenting with **account abstraction & wallet automation prototypes**.
 
 ---
 
-⭐ **Fun fact**
-- I enjoy building projects that **combine AI, blockchain, and web development** to make tools that are both **powerful and user-friendly**.
+### 🎨 Featured Repositories
+
+🧠 [**react-smart-ui**](https://github.com/yourname/react-smart-ui)  
+_Reusable React components with adaptive animation logic and accessibility-first design._
+
+🪐 [**onchain-engine**](https://github.com/yourname/onchain-engine)  
+_Modular backend for interacting with blockchain data using Ethers.js and PostgreSQL._
+
+🤖 [**gpt-automation-kit**](https://github.com/yourname/gpt-automation-kit)  
+_A toolkit for building AI-driven automations with Python and Node.js._
 
 ---
 
-📈 **GitHub Stats**
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marco0808364&show_icons=true&theme=radical)
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical" height="170" />
+</p>
+
+---
+
+### 🪄 A Little Animation Touch
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourname&theme=onedark&no-frame=true&row=1&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourname&theme=github-dark" />
+</p>
+
+---
+
+### 💬 Connect
+📫 [LinkedIn](https://linkedin.com/in/yourname) • [Twitter](https://twitter.com/yourhandle) • [Portfolio](https://yourportfolio.dev)
+
+---
+
+> _"Write code that scales. Build systems that last."_  
+> — [Your Name]
