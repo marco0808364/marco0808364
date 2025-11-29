@@ -34,9 +34,5 @@ My work combines **backend precision** with **frontend creativity**, focusing on
 ---
 
 
-### 💬 Connect
-📫 [LinkedIn](https://linkedin.com/in/marcoradoji) • [Twitter](https://twitter.com/@MRadoji43715)
-
----
 
 
