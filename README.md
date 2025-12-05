@@ -8,7 +8,7 @@
 ### 👋 Hey, I'm Marco.
 > Full-Stack Developer | Automation Engineer | Problem Solver  
 
-I design **scalable systems**, **intuitive interfaces**, and explore how **AI + Web3** can redefine user experiences.  
+I design **scalable systems**, **intuitive interfaces**, and explore how **AI + Web3** can redefine user experiences
 My work combines **backend precision** with **frontend creativity**, focusing on automation, data flow, and secure web infrastructure.
 
 ---
