@@ -157,44 +157,8 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 
 ## 🎮 GitHub Contribution Target Game
 
-### 🎯 Daily Challenge
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=16&pause=1000&color=00ff41&center=true&vCenter=true&width=800&lines=%5B%5D+Daily+Goal%3A+5+Contributions+%E2%9C%85%7C%5B%5D+Current+Streak%3A+15+Days+%E2%9C%85%7C%5B%5D+Total+Contributions%3A+2,847%7C%5B%5D+Ranking%3A+Top+5%25+%E2%9C%85%7C%5B%5D+Level%3A+Expert+Developer+%E2%9C%85" alt="Daily Challenge">
-</p>
-
-### 🔥 Real-time Progress
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=14&pause=1000&color=ff6b6b&center=true&vCenter=true&width=800&lines=%7C+Today%27s+Progress%3A+3%2F5+%2860%25%29%7C+Remaining%3A+2+Contributions%7C+Time+Left%3A+8h+23m%7C+Next+Milestone%3A+100+Contributions%7C+Bonus+Multiplier%3A+2x" alt="Real-time Progress">
-</p>
-
-### 🏆 Achievement System
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=14&pause=1000&color=f59e0b&center=true&vCenter=true&width=800&lines=%5B%5D+Code+Master%3A+500+Commits+%E2%9C%93%7C%5B%5D+Bug+Hunter%3A+100+Issues+%E2%9C%93%7C%5B%5D+Open+Source+Hero%3A+50+PRs+%E2%9C%93%7C%5B%5D+Streak+Champion%3A+30+Days+%E2%9C%93%7C%5B%5D+GitHub+Legend%3A+Unlocking..." alt="Achievement System">
-</p>
-
-### 🎲 Random Challenge Generator
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=14&pause=1000&color=8b5cf6&center=true&vCenter=true&width=800&lines=%5B%5D+Today%27s+Challenge%3A+%22Create+a+React+Component%22%5B%5D+Reward%3A+50+XP+%2B+2x+Multiplier%5B%5D+Difficulty%3A+Medium%5B%5D+Time+Limit%3A+24h%5B%5D+Competitors%3A+23+Active" alt="Challenge Generator">
-</p>
-
-### 📊 Analytics Dashboard
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=14&pause=1000&color=06b6d4&center=true&vCenter=true&width=800&lines=%7C+Weekly+Average%3A+12.5+Contributions%7C+Productivity%3A+89%25+%E2%9C%85%7C+Best+Day%3A+Friday+%2821+commits%29%7C+Languages%3A+JavaScript%2C+Python%2C+TypeScript%7C+Focus%3A+AI+%2B+Web3" alt="Analytics Dashboard">
-</p>
-
-### 🎯 Level Progress Bar
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=14&pause=1000&color=10b981&center=true&vCenter=true&width=800&lines=%5B%5D+Current+Level%3A+42+%28Expert+Developer%29%5B%5D+Experience%3A+28,470%2F30,000%5B%5D+Progress%3A+94.9%25%5B%5D+Next+Level%3A+530+XP+to+go%5B%5D+Total+XP%3A+156,420" alt="Level Progress">
-</p>
-
-### 🏅 Leaderboard Status
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=14&pause=1000&color=ec4899&center=true&vCenter=true&width=800&lines=%5B%5D+Global+Rank%3A+%23124%5B%5D+Network+Rank%3A+%2315%5B%5D+Country+Rank%3A+%2332%5B%5D+Organization+Rank%3A+%231%5B%5D+Friends+Rank%3A+%233" alt="Leaderboard Status">
-</p>
-
-### 🎮 Interactive Console
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=14&pause=1000&color=14b8a6&center=true&vCenter=true&width=800&lines=%3E+github+game+status%7C%3E+Level%3A+42+%28Expert+Developer%29%7C%3E+Streak%3A+15+days%7C%3E+Rank%3A+%23124+global%7C%3E+Ready+for+challenges%3F+%28y%2Fn%29" alt="Interactive Console">
+ <img src="https://raw.githubusercontent.com/marco0808364/marco0808364/main/.github/snake-game-target.svg" alt="GitHub Contribution Target Game" width="800" height="400">
 </p>
 
 ---
@@ -217,7 +181,7 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
  <a href="https://github.com/marco0808364" target="_blank">
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
  </a>
- <a href="https://linkedin.com/in/marco0808364" target="_blank">
+ <a href="https://linkedin.com/marco0808364" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
  </a>
  <a href="https://twitter.com/marco0808364" target="_blank">
