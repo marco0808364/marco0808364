@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Marco+%F0%9F%91%8B;Full-Stack+Developer;Automation+Engineer;Problem+Solver" alt="Typing Animation" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Marco+%F0%9F%91%8B;Full-Stack+Developer;Automation%20Engineer;Problem%20Solver" alt="Typing Animation" />
 
 <p align="center">
  <img src="https://img.shields.io/badge/Automation-Engineering-FF6B6B?style=for-the-badge&logo=automation&logoColor=white&logoWidth=20&height=40&width=100" alt="Automation Engineering">
@@ -152,6 +152,18 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
  <img src="https://img.shields.io/badge/📱%20Mobile%20App-3DDC84?style=for-the-badge&logo=react&logoColor=white&logoWidth=20&height=35&width=120" alt="Mobile App">
  <img src="https://img.shields.io/badge/🔌%20API%20Service-00BFFF?style=for-the-badge&logo=api&logoColor=white&logoWidth=20&height=35&width=120" alt="API Service">
  <img src="https://img.shields.io/badge/📊%20Data%20Analytics-4CAF50?style=for-the-badge&logo=analytics&logoColor=white&logoWidth=20&height=35&width=120" alt="Data Analytics">
+</p>
+
+---
+
+## 🐍 Snake Game Activity
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/marco0808364/marco0808364/main/.github/snake-game.svg" alt="Snake Game" width="800" height="400">
+</p>
+
+<p align="center">
+ <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Game" width="800" height="400">
 </p>
 
 ---
