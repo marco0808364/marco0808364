@@ -155,7 +155,9 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 ## 🐍 GitHub Snake Game - Activity Tracker
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/marco0808364" alt="GitHub Contribution Graph" width="800" height="200">
+  <a href="https://github.com/Platane/snk">
+    <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game">
+  </a>
 </p>
 
 ### 🎮 Snake Game Features
