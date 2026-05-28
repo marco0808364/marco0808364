@@ -136,34 +136,6 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 
 ---
 
-## 🐍 GitHub Snake Game - Activity Tracker
-
-### 🎮 Interactive Snake Game Concept
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=🐍+Snake+Game+Coming+Soon..." alt="Snake Game Concept">
-</p>
-
-### 🎯 Snake Game Features (Concept)
-- 🐍 **Snake**: Represents your GitHub activity and growth journey
-- 🍎 **Activity Points**: Colorful dots representing commits, PRs, and stars
-- 🌈 **Color System**: Different colors for different types of contributions
-- 📈 **Score**: Tracks your total GitHub activity "eaten"
-
-### 🚀 Current GitHub Activity Visualization
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/marco0808364" alt="GitHub Contribution Graph" width="800" height="200">
-</p>
-
-### 🎯 How It Works
-- Your GitHub contributions are visualized in the chart above
-- Each commit adds to your coding activity "score"
-- The chart shows your consistent development pattern
-- Perfect for demonstrating your GitHub growth over time
-
----
-
 ## 📈 Goals & Aspirations
 
 - 🚀 **Build** 10+ production-ready Web3 applications
