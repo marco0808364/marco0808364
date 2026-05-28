@@ -215,5 +215,4 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 
 <p align="center">
  <img src="https://img.shields.io/badge/Made%20with-%F0%9F%A4%9D%20%E2%9D%A4%EF%B8%8F-FF6B6B?style=for-the-badge" alt="Made with Love">
- <img src="https://img.shields.io/badge/Last%20Updated-2026-05-28?style=for-the-badge&color=00BFFF" alt="Last Updated">
 </p>
