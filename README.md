@@ -159,15 +159,27 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 
 ---
 
-## 📈 Activity Graph
+## 🐍 GitHub Snake Game - Activity Tracker
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marco0808364&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="Activity Graph">
+  <canvas id="snakeGame" width="800" height="400" style="border: 2px solid #00BFFF; border-radius: 10px; background: linear-gradient(135deg, #0D1117 0%, #1a1f2e 100%);"></canvas>
 </p>
+
+### 🎮 How the Snake Game Works
+- 🐍 **Snake**: Represents your GitHub activity and growth
+- 🍎 **Activity Points**: Colorful dots representing commits, PRs, and stars
+- 🌈 **Color System**: Different colors for different types of contributions
+- 📈 **Score**: Tracks your total GitHub activity "eaten"
+
+### 🎯 Game Features
+- **Real-time activity tracking** as you contribute
+- **Colorful contribution visualization** 
+- **Smooth animations** and responsive controls
+- **Score system** that grows with your GitHub activity
 
 ---
 
-## 🎯 Goals & Aspirations
+## 📈 Goals & Aspirations
 
 - 🚀 **Build** 10+ production-ready Web3 applications
 - 🤖 **Master** AI/ML integration in full-stack applications
@@ -214,3 +226,212 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
   <img src="https://img.shields.io/badge/Made%20with-%F0%9F%A4%9D%20%E2%9D%A4%EF%B8%8F-FF6B6B?style=for-the-badge" alt="Made with Love">
   <img src="https://img.shields.io/badge/Last%20Updated-2026-05-28?style=for-the-badge&color=00BFFF" alt="Last Updated">
 </p>
+
+<script>
+// GitHub Snake Game
+const canvas = document.getElementById('snakeGame');
+const ctx = canvas.getContext('2d');
+
+// Game variables
+let snake = [{x: 400, y: 200}];
+let direction = {x: 0, y: 0};
+let food = [];
+let score = 0;
+let gameRunning = true;
+
+// GitHub activity colors
+const activityColors = ['#00BFFF', '#FF6B6B', '#8B5CF6', '#F59E0B', '#10B981', '#EF4444', '#3B82F6', '#8B5CF6'];
+
+// Initialize food
+function generateFood() {
+    food = [];
+    for (let i = 0; i < 15; i++) {
+        food.push({
+            x: Math.random() * (canvas.width - 20) + 10,
+            y: Math.random() * (canvas.height - 20) + 10,
+            color: activityColors[Math.floor(Math.random() * activityColors.length)],
+            type: Math.random() > 0.7 ? 'star' : 'commit'
+        });
+    }
+}
+
+// Draw snake
+function drawSnake() {
+    ctx.fillStyle = '#00BFFF';
+    snake.forEach((segment, index) => {
+        ctx.fillRect(segment.x, segment.y, 8, 8);
+        if (index === 0) {
+            // Draw snake head
+            ctx.fillStyle = '#FFD700';
+            ctx.fillRect(segment.x + 2, segment.y + 2, 4, 4);
+            ctx.fillStyle = '#00BFFF';
+        }
+    });
+}
+
+// Draw food
+function drawFood() {
+    food.forEach((item, index) => {
+        if (item.type === 'star') {
+            // Draw star
+            ctx.fillStyle = item.color;
+            ctx.beginPath();
+            ctx.arc(item.x, item.y, 6, 0, Math.PI * 2);
+            ctx.fill();
+            
+            // Add sparkle effect
+            ctx.fillStyle = 'white';
+            ctx.beginPath();
+            ctx.arc(item.x - 2, item.y - 2, 1, 0, Math.PI * 2);
+            ctx.fill();
+        } else {
+            // Draw commit dot
+            ctx.fillStyle = item.color;
+            ctx.beginPath();
+            ctx.arc(item.x, item.y, 4, 0, Math.PI * 2);
+            ctx.fill();
+        }
+    });
+}
+
+// Move snake
+function moveSnake() {
+    if (direction.x === 0 && direction.y === 0) return;
+    
+    const head = {x: snake[0].x + direction.x, y: snake[0].y + direction.y};
+    
+    // Wrap around canvas
+    if (head.x < 0) head.x = canvas.width;
+    if (head.x >= canvas.width) head.x = 0;
+    if (head.y < 0) head.y = canvas.height;
+    if (head.y >= canvas.height) head.y = 0;
+    
+    snake.unshift(head);
+    
+    // Check food collision
+    let ateFood = false;
+    food.forEach((item, index) => {
+        const distance = Math.sqrt(Math.pow(head.x - item.x, 2) + Math.pow(head.y - item.y, 2));
+        if (distance < 15) {
+            food.splice(index, 1);
+            score += item.type === 'star' ? 10 : 5;
+            ateFood = true;
+            
+            // Add new food
+            food.push({
+                x: Math.random() * (canvas.width - 20) + 10,
+                y: Math.random() * (canvas.height - 20) + 10,
+                color: activityColors[Math.floor(Math.random() * activityColors.length)],
+                type: Math.random() > 0.7 ? 'star' : 'commit'
+            });
+        }
+    });
+    
+    if (!ateFood) {
+        snake.pop();
+    }
+    
+    // Check self collision
+    for (let i = 1; i < snake.length; i++) {
+        if (head.x === snake[i].x && head.y === snake[i].y) {
+            gameRunning = false;
+        }
+    }
+}
+
+// Draw score
+function drawScore() {
+    ctx.fillStyle = 'white';
+    ctx.font = '16px Inter';
+    ctx.fillText(`GitHub Activity Score: ${score}`, 10, 25);
+    ctx.fillText(`Contributions Eaten: ${snake.length}`, 10, 45);
+}
+
+// Game loop
+function gameLoop() {
+    if (!gameRunning) {
+        ctx.fillStyle = 'rgba(0, 0, 0, 0.7)';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+        ctx.fillStyle = 'white';
+        ctx.font = '24px Inter';
+        ctx.textAlign = 'center';
+        ctx.fillText('Game Over! Refresh to restart', canvas.width / 2, canvas.height / 2);
+        ctx.textAlign = 'left';
+        return;
+    }
+    
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    
+    moveSnake();
+    drawFood();
+    drawSnake();
+    drawScore();
+    
+    setTimeout(gameLoop, 150);
+}
+
+// Keyboard controls
+document.addEventListener('keydown', (e) => {
+    if (!gameRunning) return;
+    
+    switch(e.key) {
+        case 'ArrowUp':
+            if (direction.y === 0) {
+                direction = {x: 0, y: -10};
+            }
+            break;
+        case 'ArrowDown':
+            if (direction.y === 0) {
+                direction = {x: 0, y: 10};
+            }
+            break;
+        case 'ArrowLeft':
+            if (direction.x === 0) {
+                direction = {x: -10, y: 0};
+            }
+            break;
+        case 'ArrowRight':
+            if (direction.x === 0) {
+                direction = {x: 10, y: 0};
+            }
+            break;
+    }
+});
+
+// Initialize game
+generateFood();
+gameLoop();
+
+// Touch controls for mobile
+let touchStartX = 0;
+let touchStartY = 0;
+
+canvas.addEventListener('touchstart', (e) => {
+    touchStartX = e.touches[0].clientX;
+    touchStartY = e.touches[0].clientY;
+});
+
+canvas.addEventListener('touchend', (e) => {
+    if (!gameRunning) return;
+    
+    const touchEndX = e.changedTouches[0].clientX;
+    const touchEndY = e.changedTouches[0].clientY;
+    
+    const deltaX = touchEndX - touchStartX;
+    const deltaY = touchEndY - touchStartY;
+    
+    if (Math.abs(deltaX) > Math.abs(deltaY)) {
+        if (deltaX > 0 && direction.x === 0) {
+            direction = {x: 10, y: 0};
+        } else if (deltaX < 0 && direction.x === 0) {
+            direction = {x: -10, y: 0};
+        }
+    } else {
+        if (deltaY > 0 && direction.y === 0) {
+            direction = {x: 0, y: 10};
+        } else if (deltaY < 0 && direction.y === 0) {
+            direction = {x: 0, y: -10};
+        }
+    }
+});
+</script>
