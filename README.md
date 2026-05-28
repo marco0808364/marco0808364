@@ -120,7 +120,6 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 
 ### <p align="center">🚀 Technical Skills</p>
 <p align="center">
- <img src="https://img.shields.io/badge/🚀%20Full-Stack-Development-61DAFB?style=for-the-badge&logo=react&logoColor=white&logoWidth=20&height=35&width=120" alt="Full-Stack Development">
  <img src="https://img.shields.io/badge/🔧%20DevOps-FF6B6B?style=for-the-badge&logo=devops&logoColor=white&logoWidth=20&height=35&width=120" alt="DevOps">
  <img src="https://img.shields.io/badge/🌐%20Web3-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white&logoWidth=20&height=35&width=120" alt="Web3">
  <img src="https://img.shields.io/badge/🎮%20Game%20Development-FF6B6B?style=for-the-badge&logo=unity&logoColor=white&logoWidth=20&height=35&width=120" alt="Game Development">
