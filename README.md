@@ -6,15 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/marco0808364">
     <img src="https://komarev.com/ghpvc/?username=marco0808364&style=for-the-badge&color=blue" alt="Profile Views">
-  </a>
-  <a href="https://github.com/marco0808364?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-10%2B-28A745?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
-  </a>
-  <a href="https://github.com/marco0808364?tab=stars">
     <img src="https://img.shields.io/badge/Stars-20%2B-FDB813?style=for-the-badge&logo=star&logoColor=white" alt="Stars">
-  </a>
 </p>
 
 ---
