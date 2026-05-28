@@ -1,14 +1,14 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Marco+%F0%9F%91%8B;Full-Stack+Developer;Automation+Engineer;Problem+Solver" alt="Typing Animation" />
+# <img src="https://img.shields.io/badge/Hi%2C+I'm+Marco-%231DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Marco GitHub">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full-Stack-Development-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Development">
-  <img src="https://img.shields.io/badge/Automation-Engineering-FF6B6B?style=for-the-badge&logo=automation&logoColor=white" alt="Automation Engineering">
+  <img src="https://img.shields.io/badge/Full-Stack-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer">
+  <img src="https://img.shields.io/badge/Automation-Engineer-FF6B6B?style=for-the-badge&logo=automation&logoColor=white" alt="Automation Engineer">
   <img src="https://img.shields.io/badge/Web3-Explorer-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3 Explorer">
 </p>
 
 <p align="center">
   <a href="https://github.com/marco0808364">
-    <img src="https://komarev.com/ghpvc/?username=marco0808364&style=for-the-badge&color=blue" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views">
   </a>
   <a href="https://github.com/marco0808364?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-10%2B-28A745?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
@@ -37,8 +37,8 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marco0808364&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco0808364&layout=compact&theme=radical&hide_border=true&hide=Jupyter%20Notebook" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=marco0808364&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco0808364&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
 </p>
 
 ---
@@ -107,10 +107,6 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 
 ## 🏆 Achievements & Contributions
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marco0808364&theme=darkhub&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies">
-</p>
-
 ### 📈 Recent Activity
 - 🎯 **15+** Projects completed across Full-Stack, AI, and Web3
 - 🔥 **50+** GitHub contributions this month
@@ -152,36 +148,25 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
   <a href="https://twitter.com/marco0808364" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://marco0808364.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  <a href="mailto:marco0808364@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
-## 🐍 GitHub Snake Game - Activity Tracker
+## 🐍 GitHub Activity Visualization
 
+### 📊 Contribution Activity
 <p align="center">
-  <a href="https://github.com/Platane/snk">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=marco0808364&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="Activity Graph">
-  </a>
+  <img src="https://ghchart.rshah.org/marco0808364" alt="GitHub Contribution Graph" width="800" height="200">
 </p>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Game">
-</p>
-
-### 🎮 Snake Game Features
-- 🐍 **Snake**: Represents your GitHub activity and growth journey
-- 🍎 **Activity Points**: Colorful dots representing commits, PRs, and stars
-- 🌈 **Color System**: Different colors for different types of contributions
-- 📈 **Score**: Tracks your total GitHub activity "eaten"
-
-### 🎯 How It Works
-- The snake grows as you make more GitHub contributions
-- Each commit, PR, or star adds to your snake's length
-- The game visualizes your coding activity in a fun, interactive way
-- Perfect for showing your GitHub growth over time
+### 🎯 Activity Summary
+- **Total Contributions**: Growing daily with consistent coding
+- **Current Streak**: Maintaining active development
+- **Longest Streak**: Building momentum in open-source
+- **Repositories**: Actively contributing to multiple projects
 
 ---
 
@@ -195,24 +180,11 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 
 ---
 
-## 📝 Latest Blog Posts & Articles
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
-</p>
-
----
-
 ## 🙏 Support & Sponsorship
 
 <p align="center">
   <a href="https://github.com/sponsors/marco0808364">
     <img src="https://img.shields.io/badge/Sponsor-000000?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor">
-  </a>
-  <a href="https://ko-fi.com/marco0808364">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
   </a>
 </p>
 
