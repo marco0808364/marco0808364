@@ -92,9 +92,9 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 ## 🏆 Achievements & Contributions
 
 ### 📈 Recent Activity
-- 🎯 **15+** Projects completed across Full-Stack, AI, and Web3
+- 🎯 **80+** Projects completed across Full-Stack, AI, and Web3
 - 🔥 **50+** GitHub contributions this month
-- 🚀 **3+** Production applications deployed
+- 🚀 **20+** Production applications deployed
 - 💡 **10+** Open source contributions
 - 🎓 **5+** Technical certifications earned
 
