@@ -1,7 +1,7 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Marco+%F0%9F%91%8B;Full-Stack+Developer;Automation+Engineer;Problem+Solver" alt="Typing Animation" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full-Stack-Development-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="AI & WEB3 Full Stack Development">
+  <img src="https://img.shields.io/badge/Full-Stack-Development-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Development">
   <img src="https://img.shields.io/badge/Automation-Engineering-FF6B6B?style=for-the-badge&logo=automation&logoColor=white" alt="Automation Engineering">
   <img src="https://img.shields.io/badge/Web3-Explorer-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3 Explorer">
 </p>
@@ -154,23 +154,29 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 
 ## 🐍 GitHub Snake Game - Activity Tracker
 
+### 🎮 Interactive Snake Game Concept
+
 <p align="center">
-  <a href="https://github.com/Platane/snk">
-    <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=🐍+Snake+Game+Coming+Soon..." alt="Snake Game Concept">
 </p>
 
-### 🎮 Snake Game Features
+### 🎯 Snake Game Features (Concept)
 - 🐍 **Snake**: Represents your GitHub activity and growth journey
 - 🍎 **Activity Points**: Colorful dots representing commits, PRs, and stars
 - 🌈 **Color System**: Different colors for different types of contributions
 - 📈 **Score**: Tracks your total GitHub activity "eaten"
 
+### 🚀 Current GitHub Activity Visualization
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/marco0808364" alt="GitHub Contribution Graph" width="800" height="200">
+</p>
+
 ### 🎯 How It Works
-- The snake grows as you make more GitHub contributions
-- Each commit, PR, or star adds to your snake's length
-- The game visualizes your coding activity in a fun, interactive way
-- Perfect for showing your GitHub growth over time
+- Your GitHub contributions are visualized in the chart above
+- Each commit adds to your coding activity "score"
+- The chart shows your consistent development pattern
+- Perfect for demonstrating your GitHub growth over time
 
 ---
 
