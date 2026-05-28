@@ -1,7 +1,6 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Marco+%F0%9F%91%8B;Full-Stack+Developer;Automation+Engineer;Problem+Solver" alt="Typing Animation" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full-Stack-Development-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Development">
   <img src="https://img.shields.io/badge/Automation-Engineering-FF6B6B?style=for-the-badge&logo=automation&logoColor=white" alt="Automation Engineering">
   <img src="https://img.shields.io/badge/Web3-Explorer-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3 Explorer">
 </p>
