@@ -33,15 +33,6 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marco0808364&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco0808364&layout=compact&theme=radical&hide_border=true&hide=Jupyter%20Notebook" alt="Top Languages">
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### <p align="center">🎨 Frontend</p>
