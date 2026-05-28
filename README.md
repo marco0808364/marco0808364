@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Marco+%F0%9F%91%8B;Full-Stack+Developer;Automation%20Engineer;Problem+Solver" alt="Typing Animation">
+# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Marco+%F0%9F%91%8B;Full-Stack+Developer;Automation%20Engineer;Problem+Solver" alt="Typing Animation" />
 
 <p align="center">
  <img src="https://img.shields.io/badge/Automation-Engineering-FF6B6B?style=for-the-badge&logo=automation&logoColor=white&logoWidth=20&height=40&width=100" alt="Automation Engineering">
@@ -157,42 +157,42 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 
 ## 🎮 GitHub Contribution Target Game
 
-### <p align="center">🎯 Daily Challenge</p>
+### 🎯 Daily Challenge
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=16&pause=1000&color=00ff41&center=true&vCenter=true&width=800&lines=%5B%5D+Daily+Goal%3A+5+Contributions+%E2%9C%85%7C%5B%5D+Current+Streak%3A+15+Days+%E2%9C%85%7C%5B%5D+Total+Contributions%3A+2,847%7C%5B%5D+Ranking%3A+Top+5%25+%E2%9C%85%7C%5B%5D+Level%3A+Expert+Developer+%E2%9C%85" alt="Daily Challenge">
 </p>
 
-### <p align="center">🔥 Real-time Progress</p>
+### 🔥 Real-time Progress
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=14&pause=1000&color=ff6b6b&center=true&vCenter=true&width=800&lines=%7C+Today%27s+Progress%3A+3%2F5+%2860%25%29%7C+Remaining%3A+2+Contributions%7C+Time+Left%3A+8h+23m%7C+Next+Milestone%3A+100+Contributions%7C+Bonus+Multiplier%3A+2x" alt="Real-time Progress">
 </p>
 
-### <p align="center">🏆 Achievement System</p>
+### 🏆 Achievement System
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=14&pause=1000&color=f59e0b&center=true&vCenter=true&width=800&lines=%5B%5D+Code+Master%3A+500+Commits+%E2%9C%93%7C%5B%5D+Bug+Hunter%3A+100+Issues+%E2%9C%93%7C%5B%5D+Open+Source+Hero%3A+50+PRs+%E2%9C%93%7C%5B%5D+Streak+Champion%3A+30+Days+%E2%9C%93%7C%5B%5D+GitHub+Legend%3A+Unlocking..." alt="Achievement System">
 </p>
 
-### <p align="center">🎲 Random Challenge Generator</p>
+### 🎲 Random Challenge Generator
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=14&pause=1000&color=8b5cf6&center=true&vCenter=true&width=800&lines=%5B%5D+Today%27s+Challenge%3A+%22Create+a+React+Component%22%5B%5D+Reward%3A+50+XP+%2B+2x+Multiplier%5B%5D+Difficulty%3A+Medium%5B%5D+Time+Limit%3A+24h%5B%5D+Competitors%3A+23+Active" alt="Challenge Generator">
 </p>
 
-### <p align="center">📊 Analytics Dashboard</p>
+### 📊 Analytics Dashboard
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=14&pause=1000&color=06b6d4&center=true&vCenter=true&width=800&lines=%7C+Weekly+Average%3A+12.5+Contributions%7C+Productivity%3A+89%25+%E2%9C%85%7C+Best+Day%3A+Friday+%2821+commits%29%7C+Languages%3A+JavaScript%2C+Python%2C+TypeScript%7C+Focus%3A+AI+%2B+Web3" alt="Analytics Dashboard">
 </p>
 
-### <p align="center">🎯 Level Progress Bar</p>
+### 🎯 Level Progress Bar
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=14&pause=1000&color=10b981&center=true&vCenter=true&width=800&lines=%5B%5D+Current+Level%3A+42+%28Expert+Developer%29%5B%5D+Experience%3A+28,470%2F30,000%5B%5D+Progress%3A+94.9%25%5B%5D+Next+Level%3A+530+XP+to+go%5B%5D+Total+XP%3A+156,420" alt="Level Progress">
 </p>
 
-### <p align="center">🏅 Leaderboard Status</p>
+### 🏅 Leaderboard Status
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=14&pause=1000&color=ec4899&center=true&vCenter=true&width=800&lines=%5B%5D+Global+Rank%3A+%23124%5B%5D+Network+Rank%3A+%2315%5B%5D+Country+Rank%3A+%2332%5B%5D+Organization+Rank%3A+%231%5B%5D+Friends+Rank%3A+%233" alt="Leaderboard Status">
 </p>
 
-### <p align="center">🎮 Interactive Console</p>
+### 🎮 Interactive Console
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=14&pause=1000&color=14b8a6&center=true&vCenter=true&width=800&lines=%3E+github+game+status%7C%3E+Level%3A+42+%28Expert+Developer%29%7C%3E+Streak%3A+15+days%7C%3E+Rank%3A+%23124+global%7C%3E+Ready+for+challenges%3F+%28y%2Fn%29" alt="Interactive Console">
 </p>
@@ -254,11 +254,3 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 **Show some ❤️ by starring my repositories!**
 
 </div>
-
----
-
-<p align="center">
- <img src="https://img.shields.io/badge/Made%20with-%F0%9F%A4%9D%20%E2%9D%A4%EF%B8%8F-FF6B6B?style=for-the-badge" alt="Made with Love">
- <img src="https://img.shields.io/badge/Last%20Updated-2026-05-28?style=for-the-badge&color=00BFFF" alt="Last Updated">
- <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=700&size=12&pause=1000&color=00ff41&center=true&vCenter=true&width=300&lines=System+Active" alt="System Status">
-</p>
