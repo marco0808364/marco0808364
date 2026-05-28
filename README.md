@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Marco+Lee+%F0%9F%91%8B;Full-Stack+Developer; Automation%20Engineer;Problem%20Solver" alt="Typing Animation" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Marco+Lee+%F0%9F%91%8B;Full-Stack+Developer;Automation%20Engineer;Problem%20Solver" alt="Typing Animation" />
 
 <p align="center">
  <img src="https://img.shields.io/badge/Automation-Engineering-FF6B6B?style=for-the-badge&logo=automation&logoColor=white&logoWidth=20&height=40&width=100" alt="Automation Engineering">
