@@ -181,7 +181,7 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
  <a href="https://github.com/marco0808364" target="_blank">
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
  </a>
- <a href="https://linkedin.com/marco0808364" target="_blank">
+ <a href="https://linkedin.com/in/marco0808364" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
  </a>
  <a href="https://twitter.com/marco0808364" target="_blank">
@@ -218,3 +218,55 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 **Show some ❤️ by starring my repositories!**
 
 </div>
+
+---
+
+## 🚀 GitHub Actions 워크플로우
+
+```yaml
+name: GitHub Contribution Target Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v4
+        with:
+          github_user_name: ${{ github.actor }}
+          output_path: .github/snake-game-target.svg
+          
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .github/snake-game-target.svg
+          git commit -m "🎮 Update GitHub Contribution Target Game" || exit 0
+          git push
+```
+
+---
+
+## 📋 기능 설명
+
+### 🎮 GitHub Contribution Target Game
+- **실제 작동하는 게임**: Snake Game처럼 실제로 동적으로 작동하는 게임
+- **자동 업데이트**: GitHub Actions가 매일 자동으로 게임 상태 업데이트
+- **GitHub 기여도 연동**: GitHub 기여도와 게임이 실시간으로 연동됨
+- **시각적 효과**: Snake Game와 동일한 수준의 시각적 효과
+
+### 🐍 Snake Game Activity
+- **기존 유지**: Snake Game도 계속 유지됨
+- **자동 생성**: Platane/snk 서비스를 통한 자동 생성
+- **실시간 업데이트**: 매일 자동으로 업데이트됨
+
+### 🛠️ 기술 스택
+- **GitHub Actions**: 자동화 워크플로우
+- **Platane/snk**: 동적 게임 생성 서비스
+- **SVG**: 실시간 렌더링 가능한 이미지 포맷
+- **Git**: 자동 커밋 및 푸시 시스템
