@@ -158,10 +158,6 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 ## 🐍 Snake Game Activity
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/marco0808364/marco0808364/main/.github/snake-game.svg" alt="Snake Game" width="800" height="400">
-</p>
-
-<p align="center">
  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Game" width="800" height="400">
 </p>
 
