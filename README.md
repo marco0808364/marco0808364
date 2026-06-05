@@ -1,12 +1,5 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Marco+Lee+%F0%9F%91%8B;Full-Stack+Developer;Automation%20Engineer;Problem%20Solver" alt="Typing Animation" />
 
-<div align="center">
-
-<!-- CYBERPUNK BANNER -->
-  <img src="./github_banner.svg" width="5000" alt="Shanjidul Islam Banner"/>
-
-</div>
-
 <p align="center">
  <img src="https://img.shields.io/badge/Automation-Engineering-FF6B6B?style=for-the-badge&logo=automation&logoColor=white&logoWidth=20&height=40&width=100" alt="Automation Engineering">
  <img src="https://img.shields.io/badge/Web3-Explorer-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white&logoWidth=20&height=40&width=100" alt="Web3 Explorer">
