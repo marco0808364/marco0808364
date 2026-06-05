@@ -100,12 +100,11 @@ I'm a passionate **Full-Stack Developer** and **Automation Engineer** with a foc
 
 ---
 
-## 〔 GITHUB STATS 〕
+## 〔 ACTIVITY GRAPH 〕
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=marco0808364&theme=radical&background=040010&border=FF2D78&ring=FF2D78&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=AAAAAA)](https://git.io/streak-stats)
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marco0808364&bg_color=040010&color=00F5FF&line=FF2D78&point=FFFFFF&area=true&hide_border=false&border_color=FF2D78)](https://github.com/marco0808364)
 
 </div>
 
